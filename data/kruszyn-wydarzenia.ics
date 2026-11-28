@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kruszyn//Wydarzenia//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wydarzenia – Kruszyn
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:STANDARD
+DTSTART:19701025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8394485a9890d65c@kruszyn
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Warsaw:20261206T173000
+DTEND;TZID=Europe/Warsaw:20261206T193000
+SUMMARY:Mikołajki dla dzieci
+LOCATION:Sala w GOKiS w Kruszynie
+DESCRIPTION:Mikołajki dla wszystkich dzieci. W programie: warsztaty świą
+ teczne\, spotkanie z Mikołajem\, zabawa z elfami\, możliwość skorzysta
+ nia z odpłatnej sesji fotograficznej. Paczki dla dzieci płatne 30 zł (B
+ LIK na nr telefonu 796 555 830 – w tytule: imię i nazwisko dziecka – 
+ Mikołajki\; BLIK = zapis). Zapisy trwają do 30 listopada 2026 r. Organiz
+ ator: Sołtys i Rada Sołecka Kruszyna. Tel. 796-555-830. https://www.face
+ book.com/photo?fbid=122237727392532801&locale=pl_PL
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wydarzenie: Mikołajki dla dzieci
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5dadb21d475acacb@kruszyn
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Warsaw:20261213T140000
+DTEND;TZID=Europe/Warsaw:20261213T160000
+SUMMARY:Jarmark Bożonarodzeniowy
+LOCATION:Plac przy GOKiS w Kruszynie\, ul. Kasztanowa 1
+DESCRIPTION:W programie: Zjeżdżalnia pontonowa (zjazdy z górki)\, Parada
+  Mikołajowych Pomocników\, Piernikowy Tor Przeszkód\, Chatka Mikołaja 
+ z gorącą czekoladą\, Animacje dla dzieci i świąteczne piosenki\, Karu
+ zela wenecka i zimowy pociąg\, Zagroda z alpakami\, Konkurs na Najpiękni
+ ejszą kartkę świąteczną\, Ozdabianie świątecznych domków\, Świąt
+ eczny Jarmark Smaków i Rękodzieła. Organizator: Gmina Bolesławiec / GO
+ KiS Kruszyn. https://www.facebook.com/photo/?fbid=1598285415656688&locale=
+ pl_PL
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wydarzenie: Jarmark Bożonarodzeniowy
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eff53443dada8390@kruszyn
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Warsaw:20261126T190000
+DTEND;TZID=Europe/Warsaw:20261126T210000
+SUMMARY:Warsztaty tworzenia biżuterii z wróżbami andrzejkowymi
+LOCATION:Dom Ludowy w Kruszynie
+DESCRIPTION:Warsztaty tworzenia biżuterii z wróżbami andrzejkowymi pod o
+ kiem twórczyni Angelart Angel. W programie: tworzenie biżuterii z kamien
+ i szlachetnych (bransoletki lub naszyjnik)\, wróżby andrzejkowe\, poczę
+ stunek\, miła atmosfera. Obowiązują zapisy pod nr telefonu 604 120 578 
+ (liczba miejsc ograniczona). Cena: 30 zł dla mieszkańców sołectwa\, 10
+ 0 zł dla pozostałych. Organizator: KGW Kruszynki. Tel. 604-120-578. http
+ s://www.facebook.com/share/p/1F8isSsaWv/?mibextid=wwXIfr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wydarzenie: Warsztaty tworzenia biżuterii z wróżbami andrzej
+ kowymi
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f4e35417b6a15735@kruszyn
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Warsaw:20261126T170000
+DTEND;TZID=Europe/Warsaw:20261126T190000
+SUMMARY:Zabawa Andrzejkowa dla dzieci
+LOCATION:Sala Domu Ludowego w Kruszynie
+DESCRIPTION:Zabawa Andrzejkowa dla wszystkich dzieci (godz. 17:00–18:30).
+  W programie: Czarodziejskie animacje\, Wróżby andrzejkowe\, Zadymione c
+ zary mary\, Słodki poczęstunek. Przebrania mile widziane. Zapisy SMS pod
+  nr telefonu: 665-788-896. Organizator: Sołtys i Rada Sołecka Kruszyna. 
+ Tel. 665-788-896. https://www.facebook.com/photo/?fbid=122237782796532801&
+ locale=pl_PL
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wydarzenie: Zabawa Andrzejkowa dla dzieci
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7be2fd4894d2b36d@kruszyn
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Warsaw:20260915T180000
+DTEND;TZID=Europe/Warsaw:20260915T200000
+SUMMARY:Zebranie wiejskie sołectwa Kruszyn w sprawie funduszu sołeckiego
+LOCATION:Biblioteka GOKiS\, ul. Kasztanowa 18\, Kruszyn
+DESCRIPTION:Zebranie wiejskie sołectwa Kruszyn w sprawie funduszu sołecki
+ ego (I termin: 18:00\, II termin: 18:15). Porządek zebrania: 1. Otwarcie 
+ zebrania. 2. Wybór protokolanta. 3. Przyjęcie porządku obrad. 4. Przeds
+ tawienie i omówienie wniosków do Funduszu Sołeckiego. 5. Podjęcie uchw
+ ały. 6. Dyskusje\, wolne wnioski i zapytania. 7. Zamknięcie obrad zebran
+ ia. Organizator: Sołtys Wsi Kruszyn Urszula Słabicka wraz z Radą Sołec
+ ką.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wydarzenie: Zebranie wiejskie sołectwa Kruszyn w sprawie fundu
+ szu sołeckiego
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
